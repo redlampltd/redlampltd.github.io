@@ -1,2 +1,0 @@
-# redlampltd.github.io
-Blog
