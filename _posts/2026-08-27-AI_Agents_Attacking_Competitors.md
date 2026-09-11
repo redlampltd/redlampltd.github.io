@@ -10,13 +10,13 @@ the current state of agentic AI-based hacking, its historical context,
 and speculate on the future.
 
 The idea behind this post is this: what if AI-based hacking 
-could normalie adversarial business practices such as hacking into
+could normalise adversarial business practices such as hacking into
 competitors? 
 
 The speed of an offensive agentic AI, the amount of data it can
 generate, the difficulties of attribution, and the fact that an AI agent
 cannot be "punished for a crime" are all factors that make this
-hypothesis worth discussing.
+topic worth discussing.
 
 
 # The Recent OpenAI and HuggingFace Hacking Incident
