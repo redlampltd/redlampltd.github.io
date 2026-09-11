@@ -56,6 +56,15 @@ primarily used English to communicate. It appears that human-like
 of AI swarms. This trait is what allows the effectiveness of AI agents
 to scale very quickly, beyond the potential of a single model.
 
+Update, 2026-09-11: OpenAI published [another report](https://www.anthropic.com/threat-intelligence-report-september-2026#cyber-operations-sep-26) describing how their
+LLM models are used, amongst other things, for hacking and cyber
+espionage:
+
+ > [...] a hacktivist using stolen API keys, disparate financially
+ > motivated individuals, and a state espionage operator each sustained
+ > multi-victim campaigns that, even just a year ago, would have
+ > required many skilled operators and specialist knowledge
+
 ## A Thought Experiment
 
 If you run a medium to large business, would you leverage unscrupulous
