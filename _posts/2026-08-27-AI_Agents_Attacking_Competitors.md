@@ -2,7 +2,11 @@
 layout: post
 title:  "AI Agents and Corporate Espionage - an opinion piece"
 # date:   2026-08-27 00:31:28 +0100
-categories: LLM AI op-ed
+# categories: LLM AI op-ed
+tags:
+ - LLM
+ - AI
+ - Op-Ed
 ---
 
 Welcome to the era of agentic security. In this article, we'll discuss
