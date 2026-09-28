@@ -1,0 +1,10 @@
+# Red Lamp Computer Security
+A security consultancy company specialising in tailored offensive security.
+
+## Services
+ - [Penetration Testing](/services.html#penetration-testing) for security assurance, looking for all vulnerabilities (exploitable or theoretical) in a given products in a time-boxed manner
+ - Adversarial Emulation and Simulation, also known as [Red Teaming](/services.html#red-team) for evaluating defences and monitoring, detecting and detering capabilities against a sophisticated emulated real world adversary
+ - [Tailored Research](/services.html#security-research) into specific products such as content management systems and your own proprietary products, including proof-of-concept exploits, security design and hardening
+ - [Tooling Development](/services.html#tooling-development) for all your security needs: from CI/CD integration to infrastructure management and deploying 
+ - [AI](/services.html#ai-security) for looking at the full AI stack, from training to hallucination to adversarial prompting and sandbox escaping
+ - [Physical Security](/services.html#physical-security) evaluating the physical boundaries of a business, from badge cloning to social engineering
